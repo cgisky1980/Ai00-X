@@ -175,15 +175,10 @@ AI00-X 拥有强大的插件系统，支持：
 
 ## 📱 联系方式
 
-- 💬 Discord: [加入讨论](https://discord.gg/ai00-x)
-- � GitHub: [github.com/ai00-x](https://github.com/ai00-x/ai00-x)
-- 📧 Email: hello@ai00-x.dev
+- 💬 QQ 群 30920262
 
 ---
-
-## 📄 License
-
-MIT License - 欢迎商业使用！
+ 
 
 ---
 
@@ -216,7 +211,7 @@ Rust, Tauri, React 19, TypeScript, RWKV, ONNX, GGUF
 - 💡 Share ideas
 - 📝 Contribute code
 
-**Discord**: [Join our community](https://discord.gg/ai00-x)
+ QQ group : 30920262
 
 ---
 
